@@ -40,7 +40,7 @@ This dashboard shows:
 
 
 🔹 Seller Details Dashboard
-![Seller Details View](seller_details.jpg)
+![Seller Details View](Seller_Details.jpg)
 
 This dashboard shows:
 - Seller-wise Total Sales
